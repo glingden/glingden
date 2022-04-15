@@ -1,5 +1,5 @@
 ### 📖  About Me
-- 👋 Hi there, I am Ganga Lingden.
+- <span style="color: green"> 👋 Hi there, I am Ganga Lingden </span>
 - 🎓 Studing MSc. Machine Learning at Tampere University.
 - 🖥 I'm interested in Machine Learning, NLP, and Full-stack development.
 - 🌱 I’m currently learning MERN stack.
