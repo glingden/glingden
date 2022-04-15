@@ -1,22 +1,36 @@
-### 📖  About Me
-- <span style = f> 👋 Hi there, I am Ganga Lingden </span>
+## 📖  About Me
+- 👋 Hi there, I am Ganga Lingden </span>
 - 🎓 Studing MSc. Machine Learning at Tampere University.
 - 🖥 I'm interested in Machine Learning, NLP, and Full-stack development.
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on Data Science projects releated to ML, NLP, and Web development.
-- 📧  Reach me: lingden.ganga@gmail.com
+- 📧  Reach me: lingden.ganga@gmail.com 
+<br>
 
-### Tech Stacks
- [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
- [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
- [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
+## 📚 Tech Stacks 
+### Data Science:
+<img align="left" alt="Python" align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="left" alt="Keras" src="https://img.shields.io/badge/keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />
+<img align="left" alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="Pytroch" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+<br>
+
+
+
+### Web Development:
+<img align="left" alt="Python"  src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="Flask" src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="Html"  align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS"  src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+
  
- ![Ganga's GitHub stats](https://github-readme-stats.vercel.app/api?username=glingden&hide=contribs)
+<img align ="left" width= "40%" src="https://github-readme-stats.vercel.app/api?username=glingden&show_icons=true&theme=tokyonight&hide=contribs"/>
+<img  width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glingden&layout=compact"/>
+
  
-
-
-
-
 
 <!--
 **glingden/glingden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
