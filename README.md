@@ -4,7 +4,7 @@
 - 🖥 I'm interested in Machine Learning, NLP, and Full-stack development.
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on Data Science projects releated to ML, NLP, and Web development.
-- 📧  Reach me: lingden.ganga@gmail.com 
+- 📧 Reach me: lingden.ganga@gmail.com 
 
 
 ## 📚 Tech Stacks 
@@ -24,22 +24,9 @@
 <img align="left" alt="Html"  align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS"  src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <br>
-<img align ="left" width= "40%" src="https://github-readme-stats.vercel.app/api?username=glingden&show_icons=true&theme=tokyonight&hide=contribs"/>
-<img  width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glingden&layout=compact"/>
+
+<img align ="left" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glingden&layout=compact"/>
+<img align ="left" width= "40%",  src="https://github-readme-stats.vercel.app/api?username=glingden&show_icons=true&theme=tokyonight&hide=contribs"/>
+
 
  
-
-<!--
-**glingden/glingden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
