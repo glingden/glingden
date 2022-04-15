@@ -1,7 +1,8 @@
+## ABOUT ME
 - 👋 Hi there , I am Ganga Lingden.
-- 🖥 I'm interested in Machine Learning, NLP, Web development.
+- 🖥 I'm interested in Machine Learning, NLP, and Web development.
 - 🎓 Studing MSc. Machine Learning at Tampere University.
-- 👯 I’m looking to collaborate on Data Science projects releated to ML, NLP and Web development.
+- 👯 I’m looking to collaborate on Data Science projects releated to ML, NLP, and Web development.
 - 📫 You can reach me: lingden.ganga@gmail.com
 
 
