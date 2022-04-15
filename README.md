@@ -1,4 +1,4 @@
-# ABOUT ME
+### ABOUT ME
 - 👋 Hi there , I am Ganga Lingden.
 - 🎓 Studing MSc. Machine Learning at Tampere University.
 - 🖥 I'm interested in Machine Learning, NLP, and Full-stack development.
