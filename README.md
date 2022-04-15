@@ -1,7 +1,6 @@
 - 👋 Hi there , I am Ganga Lingden.
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🖥 I'm interested in Machine Learning, NLP, Web development.
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒ng 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 Machine Learning at Tampere University.
+- 🎓 Studing MSc. Machine Learning at Tampere University.
 - 👯 I’m looking to collaborate on Data Science, and Web development.
 - 📫 You can reach me: lingden.ganga@gmail.com
 - 
