@@ -1,9 +1,10 @@
 - 👋 Hi there , I am Ganga Lingden.
 - 🖥 I'm interested in Machine Learning, NLP, Web development.
 - 🎓 Studing MSc. Machine Learning at Tampere University.
-- 👯 I’m looking to collaborate on Data Science, and Web development.
+- 👯 I’m looking to collaborate on Data Science projects releated to ML, NLP and Web development.
 - 📫 You can reach me: lingden.ganga@gmail.com
-- 
+
+
 <!--
 **glingden/glingden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
