@@ -7,7 +7,7 @@
 - 📧 Reach me: lingden.ganga@gmail.com 
 
 
-## 📚 Tech Stacks 
+## 📚 Tech Stack 
 ### Data Science:
 <img align="left" alt="Python" align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
