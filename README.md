@@ -13,8 +13,8 @@
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="Sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img align="left" alt="Keras" src="https://img.shields.io/badge/keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white" />
-<img align="left" alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img alt="Pytroch" src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
+<img alt="Tensorflow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />
+
 
 ### Web Development:
 <img align="left" alt="Html"  align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
