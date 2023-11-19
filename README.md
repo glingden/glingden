@@ -1,5 +1,5 @@
 ## 📖  About Me
-- 👋 Hi there, I am Ganga Lingden </span>
+- 👋 Hi there, I am Ganga Dhwaj Lingden </span>
 - 🎓 Studing MSc. Machine Learning at Tampere University.
 - 🖥 I'm interested in Machine Learning, NLP, and Full-stack development.
 - 📧 Reach me: lingden.ganga@gmail.com 
