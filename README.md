@@ -33,7 +33,12 @@
 <img align ="left" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glingden&layout=compact"/>
 <img align ="left" width= "40%",  src="https://github-readme-stats.vercel.app/api?username=glingden&show_icons=true&theme=tokyonight&hide=contribs"/>
 
+<br clear="all" />
+<br>
 
+<img align="left" width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=glingden&layout=compact&theme=tokyonight"/>
+<img align="left" width="40%" src="https://github-readme-stats-fast.vercel.app/api?username=glingden&show_icons=true&theme=tokyonight&hide=contribs"/>
+<br clear="all" />
 
 
  
