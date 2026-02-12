@@ -28,9 +28,9 @@
 <img  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white "/>
 
 ### Systems & Infrastructure:
-<img align ="left" alt="Networking" align="left" src="https://img.shields.io/badge/Computer Networking-4285F4?style=for-the-badge&logo=comp-tia&logoColor=white "/>
-<img align ="left" alt="Widnow Server" align="left" src="https://img.shields.io/badge/Window Server-003366?style=for-the-badge&logo=windows&logoColor=white "/>
-<img align ="left" alt="Active Directory" align="left" src="https://img.shields.io/badge/Active Directory-%23F7DF1E.svg?style=for-the-badge&logo=microsoft&logoColor=white "/>
+<img align ="left" alt="Computer_Networking" align="left" src="https://img.shields.io/badge/Computer_Networking-4285F4?style=for-the-badge&logo=comp-tia&logoColor=white "/>
+<img align ="left" alt="Widnow_Server" align="left" src="https://img.shields.io/badge/Window_Server-003366?style=for-the-badge&logo=windows&logoColor=white "/>
+<img align ="left" alt="Active_Directory" align="left" src="https://img.shields.io/badge/Active_Directory-%23F7DF1E.svg?style=for-the-badge&logo=microsoft&logoColor=white "/>
 <img align ="left" alt="Microsoft_Intune" align="left" src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=windows&logoColor=white "/>
 <img align ="left" alt="Microsoft_365" align="left" src="https://img.shields.io/badge/Microsoft_365-98B5AC?style=for-the-badge&logo=microsoftoffice&logoColor=white "/>
 <img  alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
