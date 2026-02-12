@@ -25,14 +25,20 @@
 
 ### Database:
 <img align ="left" alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white "/>
-<img align ="left" alt="MongoDB" align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white "/>
+<img  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white "/>
 
-<br>
-<br>
+### Systems & Infrastructure:
+<img align ="left" alt="Networking" align="left" src="https://img.shields.io/badge/Computer Networking-4285F4?style=for-the-badge&logo=comp-tia&logoColor=white "/>
+<img align ="left" alt="Widnow Server" align="left" src="https://img.shields.io/badge/Window Server-003366?style=for-the-badge&logo=windows&logoColor=white "/>
+<img align ="left" alt="Active Directory" align="left" src="https://img.shields.io/badge/Active Directory-%23F7DF1E.svg?style=for-the-badge&logo=microsoft&logoColor=white "/>
+<img align ="left" alt="Microsoft_Intune" align="left" src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=windows&logoColor=white "/>
+<img align ="left" alt="Microsoft_365" align="left" src="https://img.shields.io/badge/Microsoft_365-98B5AC?style=for-the-badge&logo=microsoftoffice&logoColor=white "/>
+<img  alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 
+<!--
 <img align ="left" width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glingden&layout=compact"/>
 <img align ="left" width= "40%",  src="https://github-readme-stats.vercel.app/api?username=glingden&show_icons=true&theme=tokyonight&hide=contribs"/>
-
+-->
 <br clear="all" />
 <br>
 
